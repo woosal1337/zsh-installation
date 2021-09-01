@@ -1,4 +1,4 @@
-# 📝 Complete `zsh` & `oh my zsh` Installation Guide
+# 📝 complete `zsh` & `oh my zsh` installation guide
 
 ![](https://repository-images.githubusercontent.com/291137/fb009080-6110-11e9-82c2-b21ca7831f5c)
 
